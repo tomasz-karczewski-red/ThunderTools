@@ -1,3 +1,4 @@
+//////////
 Display Application binary and its dependencies with size. Depends on lddtree.
     Install pax-utils (apt-get install pax-utils for Debian based distros)
 
